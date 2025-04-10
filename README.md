@@ -23,6 +23,8 @@ Welcome to my github profile!
     █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 
 About me, I'm an Avid Game Developer using the GDevelop game engine, along with learning C and Shell too! Currently also learning Selenium for QA Testing!
+Feel free to also check my Itch.io page!
+https://mrafirm.itch.io/
 
 ![My Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrAFirm&layout=compact&langs_count=8&hide_border=true)
 <br />
